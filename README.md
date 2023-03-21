@@ -1,5 +1,5 @@
 # Reporting_Automatis-
-Ce code permet de créer des reportings de façon automatique à partir de dataset dont le format est similaire à celles de fournies dans le fichier compressé et produit un document sous la forme d'un pdf.
+Ce code permet de créer des reportings de façon automatique à partir de dataset dont le format est similaire à celles fournies dans le fichier compressé et produit un document sous la forme d'un pdf.
 
 Etapes d'exécution:
 1. Exécuter le fichier index.ipynb dans un terminal à l'aide de la commande: python index.ipynb
